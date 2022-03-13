@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGameCSGO", "MyGameCSGO\MyGameCSGO.csproj", "{AA44D75F-6C39-4233-A450-9881FDDF2986}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA44D75F-6C39-4233-A450-9881FDDF2986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA44D75F-6C39-4233-A450-9881FDDF2986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA44D75F-6C39-4233-A450-9881FDDF2986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA44D75F-6C39-4233-A450-9881FDDF2986}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A4A1006-AC44-4FD4-84DB-34AA8FF189B4}
+	EndGlobalSection
+EndGlobal
